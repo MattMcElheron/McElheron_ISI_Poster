@@ -3,7 +3,8 @@
 [![R](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
 [![Cohort](https://img.shields.io/badge/Cohort-Milieu--Int%C3%A9rieur-green.svg)](https://www.milieuinterieur.fr/en/)
 
-This repository contains the data processing workflows, statistical models, and visualization code for my poster exploring **"Longitudinal Dynamics of Viral Exposure and Epigenetic Drift in the Milieu Intérieur Cohort"**.
+This repository contains the data processing workflows, statistical models, and visualization code for my poster exploring **"Longitudinal Dynamics of Viral Exposure and Epigenetic Drift in the Milieu Intérieur Cohort"**.  
+
 **[Download / View Full Poster PDF](https://github.com/user-attachments/files/31151039/ISI_2026_MI_Viruses.pdf)**
 
 
