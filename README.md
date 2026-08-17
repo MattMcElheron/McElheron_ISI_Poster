@@ -29,12 +29,13 @@ To account for this, we actually normalise our "Ageing Residual" to what is expe
 
 ## Increases in PhenoAge after 10 years is most strongly associated with cell composition in healthy adults.  
 
-<img width="7200" height="3600" alt="Fig0003_Cells_CellsRatios" src="https://github.com/user-attachments/assets/0fcabb8b-dd78-4b60-864b-16f62144d126" />  
+<img width="7200" height="3600" alt="Fig0003_Cells_CellsRatios" src="https://github.com/user-attachments/assets/0fcabb8b-dd78-4b60-864b-16f62144d126" />    
+
 
 <img width="3200" height="3600" alt="Fig0003_Cells_CellsVSExpectedResidual_Models" src="https://github.com/user-attachments/assets/ee48439e-24af-44f7-93ff-b18547eebcd9" />
 
 
-## Increases in PhenoAge after 10 is not strongly associated with evidence of prior infection in healthy adults.  
+## Increases in PhenoAge after 10 years is not strongly associated with evidence of prior infection in healthy adults.  
 
 <img width="7200" height="2800" alt="Fig0002_AgeingFastSlow_Vs_Viruses" src="https://github.com/user-attachments/assets/094162e5-5dfa-4a4b-9739-aeb5d19cacc8" />
 
