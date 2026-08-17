@@ -5,7 +5,7 @@
 
 This repository contains the data processing workflows, statistical models, and visualization code for my poster exploring **"Longitudinal Dynamics of Viral Exposure and Epigenetic Drift in the Milieu Intérieur Cohort"**.  
 
-**[Download / View Full Poster PDF](https://github.com/user-attachments/files/31151039/ISI_2026_MI_Viruses.pdf)**
+**[Download / View Full Poster PDF](assets/ISI_2026_MI_Viruses.pdf)**
 
 
 ## Overview
