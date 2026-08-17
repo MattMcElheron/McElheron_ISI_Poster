@@ -4,6 +4,8 @@
 [![Cohort](https://img.shields.io/badge/Cohort-Milieu--Int%C3%A9rieur-green.svg)](https://www.milieuinterieur.fr/en/)
 
 This repository contains the data processing workflows, statistical models, and visualization code for my poster exploring **"Longitudinal Dynamics of Viral Exposure and Epigenetic Drift in the Milieu Intérieur Cohort"**.
+**[Download / View Full Poster PDF](https://github.com/user-attachments/files/31151039/ISI_2026_MI_Viruses.pdf)**
+
 
 ## Overview
 Persistent viral exposures (e.g., CMV, SARS-CoV-2) are recognized drivers of chronic inflammation and immune exhaustion, yet their life-course influence on the methylome remains poorly understood. Using high-throughput multiplex serology (*Luminex INTELLIFLEX®*) and DNA methylation profiling across a 10-year follow-up of the *Milieu Intérieur* cohort ($n = 1,000$), this study investigates age-dependent windows of viral-driven epigenetic maturation and biological age acceleration (DNAm PhenoAge).  
