@@ -24,10 +24,25 @@ Despite biological impairment accumulating exponentially in late life, younger i
   
 To account for this, we actually normalise our "Ageing Residual" to what is expected relative to age-mates, using linear regression.  
 
-<img width="6400" height="4000" alt="Fig0001_PhenoAgeExpectedResidual" src="https://github.com/user-attachments/assets/4d66106d-6ef0-4568-a6fd-9984bf09fc10" />
+<img width="6400" height="4000" alt="Fig0001_PhenoAgeExpectedResidual" src="https://github.com/user-attachments/assets/4d66106d-6ef0-4568-a6fd-9984bf09fc10" />  
 
 
 ## Increases in PhenoAge after 10 years is most strongly associated with cell composition in healthy adults.  
 
-<img width="7200" height="3600" alt="Fig0003_Cells_CellsRatios" src="https://github.com/user-attachments/assets/0fcabb8b-dd78-4b60-864b-16f62144d126" />
+<img width="7200" height="3600" alt="Fig0003_Cells_CellsRatios" src="https://github.com/user-attachments/assets/0fcabb8b-dd78-4b60-864b-16f62144d126" />  
+
+<img width="3200" height="3600" alt="Fig0003_Cells_CellsVSExpectedResidual_Models" src="https://github.com/user-attachments/assets/ee48439e-24af-44f7-93ff-b18547eebcd9" />
+
+
+## Increases in PhenoAge after 10 is not strongly associated with evidence of prior infection in healthy adults.  
+
+<img width="7200" height="2800" alt="Fig0002_AgeingFastSlow_Vs_Viruses" src="https://github.com/user-attachments/assets/094162e5-5dfa-4a4b-9739-aeb5d19cacc8" />
+
+While we do not see any strong signals, it is worth nothing that this is very possibly a sensitivity issue - our antibody readout is really one single snapshot into the viral exposure of each individual before and after 10 years. More regular, real-time documentation of exposure and responses is much more likely to reflect the exposome dynamics of an individual. Additionally, as noted in our animated figure, these individuals are quite healthy; we may be more likely to see a signal in a more representative ageing population.  
+
+## Teaser: in our upcoming study, we investigate the association between frailty and becoming infected, symptomology, and the subsequent association between infections and progression of frailty.
+
+<img width="4455" height="1651" alt="Frailty_VC_CMV" src="https://github.com/user-attachments/assets/b9f53030-1f9e-46c4-ae0a-cb4c1aa6978b" />
+
+
 
